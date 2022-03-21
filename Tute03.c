@@ -13,6 +13,16 @@ sum = 1+2+3+...+10 = 55 */
 
 #include <stdio.h>
 int main() {
+  int num,count;
+  int sum=0;
+
+  printf("Enter a positive int: ");
+  sacanf("%d",&num);
+
+  for(count=1;count->n,)
+
+  printf("")
+  
   
   return 0;
 }
